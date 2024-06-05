@@ -15,7 +15,7 @@ link para download: [https://nodejs.org/en/download/prebuilt-installer](https://
 - Escolha a versão do seu sistema
 - Clique em **Download Node.js v20.14.**
 
-![Untitled](Documentac%CC%A7a%CC%83o%20JUMBO%20api%20de%20pagamentos%20v1%202%200%20d015b9aad09b4da9b2381c4e38964b00/Untitled.png)
+![Download](./images/download.png)
 
 ## Instalar Nodejs no Linux
 
@@ -40,7 +40,7 @@ node -v # should print `v20.14.0`
 
 Para instalar as dependências do projeto abra o seu terminal na pasta raiz da api    
 
-![Untitled](Documentac%CC%A7a%CC%83o%20JUMBO%20api%20de%20pagamentos%20v1%202%200%20d015b9aad09b4da9b2381c4e38964b00/Untitled%201.png)
+![Untitled](./images/raiz.png)
 
 No terminal digite
 
@@ -50,7 +50,7 @@ npm install
 
 se ocorrer tudo bem 
 
-![Untitled](Documentac%CC%A7a%CC%83o%20JUMBO%20api%20de%20pagamentos%20v1%202%200%20d015b9aad09b4da9b2381c4e38964b00/Untitled%202.png)
+![Untitled](./images/depedencies.png)
 
 ## Configurando Variáveis de Ambiente
 
@@ -74,7 +74,7 @@ npm run start
 
 se ocorrer tudo bem
 
-![Untitled](Documentac%CC%A7a%CC%83o%20JUMBO%20api%20de%20pagamentos%20v1%202%200%20d015b9aad09b4da9b2381c4e38964b00/Untitled%203.png)
+![Untitled](./images/init.png)
 
 # Pagamentos
 
